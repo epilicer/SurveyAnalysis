@@ -1,15 +1,15 @@
-# Survey-Python
+# PythonSurvey
 
 Context
 In the fall of 2018, the Python Software Foundation together with JetBrains conducted the official annual Python Developers Survey for the second time. Over twenty thousand developers from more than 150 different countries participated.
 
-Content
+- Content
 Survey Results and Survey Questions for both the 2017 and 2018 Python Developers Survey
 
 https://www.jetbrains.com/research/python-developers-survey-2017/
 https://www.jetbrains.com/research/python-developers-survey-2018/
 
-Acknowledgements
+- Acknowledgements
 https://www.jetbrains.com/research/python-developers-survey-2017/
 
 https://drive.google.com/corp/drive/folders/1SxFwVpsRFig-h1WXfGcBlhBVdEVQElw7

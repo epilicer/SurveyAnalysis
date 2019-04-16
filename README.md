@@ -1,4 +1,11 @@
-# PythonSurvey
+
+In this repository, you will find different set of examples for survey analysis in order to give you an inside what the data science is. Enjoy it!
+
+# Turkish Student Survey Analysis
+
+This data set contains a total 5820 evaluation scores provided by students from Gazi University in Ankara (Turkey). There is a total of 28 course specific questions and additional 5 attributes.
+
+# Python Survey Analysis
 
 Context
 In the fall of 2018, the Python Software Foundation together with JetBrains conducted the official annual Python Developers Survey for the second time. Over twenty thousand developers from more than 150 different countries participated.
